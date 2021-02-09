@@ -78,3 +78,9 @@ Another great use of Mixins is the ability to pass arguments through your defini
 This all being said, Sass is a great resource for managing stylesheets on bigger projects, or another way of minifying your code to make it easier to read and to change.
 
 You can go even further with Sass by reading some of the resources that were used in this article below!
+
+## Resources
+
+* [Timothy Robards' "Starting with Sass"](https://itnext.io/starting-with-sass-116f4ecb682d)
+* [Ricardo Zea's "Sass For Beginners"](https://medium.com/@ricardozea/sass-for-beginners-the-friendliest-guide-about-how-to-install-use-sass-on-windows-22ff4a32c1f7)
+* [Marty O'Connor's 10 Sass Tips](https://webdevstudios.com/2019/12/03/10-sass-tips/)
