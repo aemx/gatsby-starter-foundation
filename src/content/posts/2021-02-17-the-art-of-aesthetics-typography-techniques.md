@@ -31,7 +31,7 @@ Keeping things simple is an important aspect of typography in web design. Even t
 
 Let’s take “Roboto Flex” for example. This font has variable weight and width, which doesn’t sound like a lot. However, if we take a look at this video…
 
-![Roboto Flex](/assets/roboto.gif "Roboto Flex")
+<video autoplay="" controls="" loop="" muted=""><source src="https://storage.googleapis.com/web-dev-assets/variable-fonts/roboto-dance.mp4" type="video/mp4"></video>
 
 …we can see that just two variables can make a massive difference in the way a typeface is presented. Keeping the amount of font families to just one or two across a website will help your design stay consistent and pleasing to the eye.
 
